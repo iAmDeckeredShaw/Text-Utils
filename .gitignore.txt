@@ -1,2 +1,2 @@
-__pycache__/
-*1.html
+\__pycache__\
+text_utils\*1.html
